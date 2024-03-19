@@ -8,10 +8,19 @@ W - cima
 A - esquerda
 S - baixo
 D - direita
+Ou setas direcionais.
 
-Credits:
-IA Para Inimigos - Movimentação do Inimigo Com NavMesh 3D - Unity IA - Inteligência Artificial - https://www.youtube.com/watch?v=61NzCU3EdUs
+Créditos:
 
-How to make a timer in Unity | Under 3 minutes | - https://www.youtube.comwatch?v=x9IFMcwqkPY\
+Assets:
+(https://assetstore.unity.com/packages/2d/textures-materials/sky/8k-skybox-pack-free-150926)
 
-Dev Tutorial Part 1 - Main Menu using Game Creator & Unity - https://www.youtube.com/watch?v=kL-JVHdCc9Q
+Som:
+https://opengameart.org/content/bad-sound-2
+https://opengameart.org/content/win-sound-effect
+https://opengameart.org/content/jazz-improvisation-august-11-2021-152pm
+
+Tutoriais:
+www.youtube.com/watch?v=61NzCU3EdUs
+www.youtube.com/watch?v=x9IFMcwqkPY
+www.youtube.com/watch?v=kL-JVHdCc9Q
