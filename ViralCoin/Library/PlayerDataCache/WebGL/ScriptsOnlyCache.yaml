@@ -93,9 +93,6 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
-  - assembly: Assembly-CSharp
-    fullTypeName: MainMenu
-    methodName: QuitGame
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -125,8 +122,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
     - Class: 64
@@ -148,8 +143,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1616}
     - Class: 114
-      Script: {instanceID: 2262}
-    - Class: 114
       Script: {instanceID: 2740}
     - Class: 114
       Script: {instanceID: 2956}
@@ -158,11 +151,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4204}
     - Class: 114
-      Script: {instanceID: 4402}
-    - Class: 114
       Script: {instanceID: 4512}
-    - Class: 114
-      Script: {instanceID: 4682}
     - Class: 114
       Script: {instanceID: 4760}
     - Class: 114
@@ -212,6 +201,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 89
@@ -223,6 +214,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1612}
     - Class: 114
+      Script: {instanceID: 2262}
+    - Class: 114
       Script: {instanceID: 2740}
     - Class: 114
       Script: {instanceID: 2892}
@@ -230,6 +223,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 2956}
     - Class: 114
       Script: {instanceID: 3272}
+    - Class: 114
+      Script: {instanceID: 4402}
+    - Class: 114
+      Script: {instanceID: 4682}
     - Class: 114
       Script: {instanceID: 5456}
     - Class: 114
@@ -1325,6 +1322,6 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   platform: 20
   scenePathNames:
-  - Assets/Scenes/Level1.unity
   - Assets/Scenes/MainMenu.unity
+  - Assets/Scenes/Level1.unity
   playerPath: C:/Users/erikb/Roll a ball/Builds

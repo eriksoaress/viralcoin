@@ -22,7 +22,6 @@ extern void Enemy_Start_m8BBD9A5AE10A27ABDFCD9168B93CD9C69D229034 (void);
 extern void Enemy_Update_m4149CFC3AC081AF0D654D9BDB6BC9B5540CE03D8 (void);
 extern void Enemy__ctor_mB6697627910F785A971C20C671DEFBA9D921D933 (void);
 extern void MainMenu_PlayGame_mEC2DA4274CDD4D658AE27480E2C70C6049A496B5 (void);
-extern void MainMenu_QuitGame_mBF761274C14BD7341FE8C32A538D28343B63EDC4 (void);
 extern void MainMenu__ctor_m8209CEC1D907C87A96D777961F4D0536E6E948DD (void);
 extern void PlayerController_Awake_m82639826DE098DC447C79B43900C5F2A630B3DC3 (void);
 extern void PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF (void);
@@ -41,7 +40,7 @@ extern void Timer_DisplayTime_m0C2F09C5C83D3690074D77FAE3AE0A8DDBB647E9 (void);
 extern void Timer__ctor_m5FF13F1DAD0527F97E229A1904A8AD662731C4B5 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
 extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
-static Il2CppMethodPointer s_methodPointers[29] = 
+static Il2CppMethodPointer s_methodPointers[28] = 
 {
 	RotateCamera_Start_m4810DEF7E3E6179604900A28D9156240D92C5001,
 	RotateCamera_Update_m1312BAEDB4E83B914E9FF4E902C625B78C596A20,
@@ -53,7 +52,6 @@ static Il2CppMethodPointer s_methodPointers[29] =
 	Enemy_Update_m4149CFC3AC081AF0D654D9BDB6BC9B5540CE03D8,
 	Enemy__ctor_mB6697627910F785A971C20C671DEFBA9D921D933,
 	MainMenu_PlayGame_mEC2DA4274CDD4D658AE27480E2C70C6049A496B5,
-	MainMenu_QuitGame_mBF761274C14BD7341FE8C32A538D28343B63EDC4,
 	MainMenu__ctor_m8209CEC1D907C87A96D777961F4D0536E6E948DD,
 	PlayerController_Awake_m82639826DE098DC447C79B43900C5F2A630B3DC3,
 	PlayerController_Start_m1D83076E8B136A71051F2F02545EE04947D3A8CF,
@@ -73,9 +71,8 @@ static Il2CppMethodPointer s_methodPointers[29] =
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
 	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
 };
-static const int32_t s_InvokerIndices[29] = 
+static const int32_t s_InvokerIndices[28] = 
 {
-	5476,
 	5476,
 	5476,
 	5476,
@@ -109,7 +106,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	29,
+	28,
 	s_methodPointers,
 	0,
 	NULL,
